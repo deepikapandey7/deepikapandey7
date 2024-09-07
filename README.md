@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepikapandey7
+- 👋 Hi, I’m Deepa
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning new skills
 - 💞️ I’m looking to collaborate on my project
